@@ -24,12 +24,11 @@
 
 <img align="right" alt="Brain Networking" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🔭 I'm currently working on **Imagined Speech Decoding & PD-GPT**
+- 🔭 I'm doing my masters in **Neuroscience and Data Science** and working on **Neural Interfaces**
 - 🎓 I'm an **Erasmus Mundus Joint Master Degree** student in **Neurodata** (Bar Ilan University)
 - 🌱 I'm exploring **Neural Manifolds, SNNs, and GNWT**
 - 📍 Based in **Giv'at Shmuel, Israel** (Originally from Ethiopia, lived in India)
 - 👯 I'm looking to collaborate on **EEG signal processing & Healthcare AI**
-- ⚡ Fun fact: **I analyze brainwaves by day and read William Blake by night** 📜
 
 <br clear="right"/>
 
@@ -74,26 +73,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,anaconda,vscode,notion" />
 </p>
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kidusabe1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" />
-  
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidusabe1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kidusabe1&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
