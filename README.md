@@ -105,13 +105,16 @@ I'm a passionate software developer who loves to code, build amazing projects, a
 
 <div align="center">
 
-<a href="https://github.com/kidusabe1/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kidusabe1&repo=project1&theme=tokyonight&hide_border=true" />
+<!-- Replace 'project1' and 'project2' with your actual repository names -->
+<!-- Example: -->
+<!--
+<a href="https://github.com/kidusabe1/your-repo-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kidusabe1&repo=your-repo-name&theme=tokyonight&hide_border=true" />
 </a>
+-->
 
-<a href="https://github.com/kidusabe1/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kidusabe1&repo=project2&theme=tokyonight&hide_border=true" />
-</a>
+**Add your featured projects here!**  
+Replace the commented examples above with your actual repositories.
 
 </div>
 
@@ -124,7 +127,8 @@ I'm a passionate software developer who loves to code, build amazing projects, a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidusabe1/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kidusabe1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kidusabe1.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<!-- Replace with your actual email address -->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kidusabe1)
 
 </div>
@@ -145,7 +149,7 @@ I'm a passionate software developer who loves to code, build amazing projects, a
   
 ### 💖 Thanks for visiting my profile! Feel free to reach out!
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 **⭐ Don't forget to star my repositories if you find them interesting!**
 
