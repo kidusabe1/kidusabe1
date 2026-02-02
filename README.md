@@ -32,28 +32,6 @@
 
 <br clear="right"/>
 
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/kidusabe1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kidusabe1&repo=kidusabe1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F97316" />
-  </a>
-
-</div>
-
----
-
-## 🔥 Coding Streak
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kidusabe1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6366F1&sideLabels=6366F1&dates=8B949E" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
