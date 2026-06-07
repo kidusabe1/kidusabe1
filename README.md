@@ -2,22 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Kidus%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Neurodata+Researcher+%F0%9F%A7%A0;Erasmus+Mundus+Scholar+%F0%9F%8E%93;Brain-Computer+Interfaces;Generative+AI+%26+SNNs+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kidusabe1&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kidusabe1?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/kidusabe1?label=Stars&style=for-the-badge&color=6366f1" alt="Stars" />
-</div>
-
-<br/>
-
 ---
 
 ## 🚀 About Me
