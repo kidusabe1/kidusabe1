@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Kidus%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
-
----
-
 ## 🚀 About Me
 
 <img align="right" alt="Brain Networking" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
