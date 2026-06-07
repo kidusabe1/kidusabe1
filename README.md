@@ -32,27 +32,6 @@
 
 <br clear="right"/>
 
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 🧠 AI & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,sklearn,opencv,pandas" />
-</p>
-
-### 💻 Development & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,mysql,postgres,mongodb,react,nextjs,html,css" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,anaconda,vscode,notion" />
-</p>
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
