@@ -2,10 +2,8 @@
 
 <img align="right" alt="Brain Networking" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- I'm doing my masters in **Neuroscience and Data Science** and working on **Neural Interfaces**
-- I'm an **Erasmus Mundus Joint Master Degree** student in **Neurodata** (Bar Ilan University)
-- I'm exploring **Neural Manifolds, SNNs, and GNWT**
-- 📍 Based in **Giv'at Shmuel, Israel** (Studied and Worked in South Korea, India and Ethiopia)
-- I'm looking to collaborate on **EEG signal processing & Healthcare AI**
+Junior AI Engineer and NeuroData Erasmus Mundus master’s student working across artificial intelligence, 
+neuroscience, and digital health. My main interests include clinical AI, Parkinson’s disease monitoring, 
+longitudinal patient modelling, multimodal learning, computational neuroscience, and responsible healthcare technology.
 
 <br clear="right"/>
